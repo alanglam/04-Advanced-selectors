@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <div class="container">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/ v5.0.10/css/all.css">
+    <link rel="stylesheet"  href="style.css">
+    <img src="https://avatars3.githubusercontent.com/u/43471281?s=460&v=4" alt="avatar" class="img-circle shadowed">
+    <meta charset="utf-8">
+    <title>Hello everyone</title>
+    <!--CSS-->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  </head>
+  <body>
+    <h1 class=".text-center"> Alan Glam </h1>
+    <p>Student @ Le Wagon </p>
+    <p> Ready to become a programmer!</p>
+    <ul>
+      <li>
+        <a href="https://www.facebook.com/alan.Glam">
+          <i class="fa fa-facebook"></i> Facebook</a>
+        </li>
+    </ul>
+    </div>
+    <div class="card">
+    <h2>My favorite movies</h2>
+      <table>
+      <tbody>
+        <tr>
+          <td>
+            <img src="http://www.telefilm-central.org/wp-content/uploads/2017/09/inception-poster.jpg" width=250 height= 200>
+          </td>
+          <td>
+            <h3> 2010 - Inception</h3>
+            <p> Inception is a 2010 science fiction action film[3] written, co-produced, and directed by Christopher Nolan, and co-produced by Emma Thomas. </p>
+            <a href="https://www.youtube.com/watch?v=8hP9D6kZseM" target="_blank"><button   class="w3-button w3-padding-large w3-white w3-border"><b>WATCH THE TRAILER »</b></button>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <img src="https://images-na.ssl-images-amazon.com/images/I/71Qmgmv4trL._SL1024_.jpg" width=250 height= 200>
+          </td>
+          <td>
+            <h3> 2014- American Sniper</h3>
+            <p>American Sniper is a 2014 American biographical war drama film[5] directed by Clint Eastwood and written by Jason Hall. It is loosely based on the memoir American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History (2012).</p>
+             <a href="https://www.youtube.com/watch?v=99k3u9ay1gs" target="_blank"><button class="w3-button w3-padding-large w3-white w3-border"><b>WATCH THE TRAILER »</b></button>
+          </td>
+        </tr>
+      </tbody>
+    </div>
+    </table>
+</body>
+
+
